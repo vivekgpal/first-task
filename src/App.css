@@ -1,0 +1,30 @@
+.styled-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.styled-table th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+
+.styled-table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+
+
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+
+.styled-table tbody td {
+  border-right: 1px solid #dddddd;
+}
+
+
+
